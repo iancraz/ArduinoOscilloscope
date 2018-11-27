@@ -1,7 +1,3 @@
 # ArduinoOscilloscope
 
-Implementation of a cheap Oscilloscope for Arduino.
-
-Requirements
-* 2 Diodes
-* 1 Resistor 330 Ohms
+Please go to the README.pdf for information, thank you.
